@@ -1,0 +1,2869 @@
+{
+    "Peso, Masa": [
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "kilotonelada",
+            "Conversion": "0.000001"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "tonelada",
+            "Conversion": "0.001"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "kilonewton (en la superficie de la Tierra) (kN)",
+            "Conversion": "0.009806652"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "centner métrico",
+            "Conversion": "0.01"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "quintal métrico",
+            "Conversion": "0.01"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "kilogramo (kg)",
+            "Conversion": "1"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "newton (en la superficie de la Tierra) (N)",
+            "Conversion": "9.80665205"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "quilate (ct)",
+            "Conversion": "5000"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "gramo (g)",
+            "Conversion": "1000"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "centigramo",
+            "Conversion": "100000"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "miligramo (mg)",
+            "Conversion": "1000000"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "microgramo (mcg)",
+            "Conversion": "1000000000"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "unidad de masa atómica (amu)",
+            "Conversion": "6.02E+26"
+        },
+        {
+            "Sistema": "Avoirdupois (EE.UU/Gran Bretaña)",
+            "Medida": "tonelada larga (Imperial)",
+            "Conversion": "0.000984207"
+        },
+        {
+            "Sistema": "Avoirdupois (EE.UU/Gran Bretaña)",
+            "Medida": "tonelada corta (EE.UU)",
+            "Conversion": "0.001102311"
+        },
+        {
+            "Sistema": "Avoirdupois (EE.UU/Gran Bretaña)",
+            "Medida": "kilopound, kip",
+            "Conversion": "0.002204623"
+        },
+        {
+            "Sistema": "Avoirdupois (EE.UU/Gran Bretaña)",
+            "Medida": "quintal largo (Imperial)",
+            "Conversion": "0.019684131"
+        },
+        {
+            "Sistema": "Avoirdupois (EE.UU/Gran Bretaña)",
+            "Medida": "centner británico",
+            "Conversion": "0.019684131"
+        },
+        {
+            "Sistema": "Avoirdupois (EE.UU/Gran Bretaña)",
+            "Medida": "quintal corto (EE.UU)",
+            "Conversion": "0.022046226"
+        },
+        {
+            "Sistema": "Avoirdupois (EE.UU/Gran Bretaña)",
+            "Medida": "piedra (st)",
+            "Conversion": "0.157473044"
+        },
+        {
+            "Sistema": "Avoirdupois (EE.UU/Gran Bretaña)",
+            "Medida": "piedras, libras y onzas (X st Y lbs Z oz)",
+            "Conversion": "2lbs 3.27396195oz"
+        },
+        {
+            "Sistema": "Avoirdupois (EE.UU/Gran Bretaña)",
+            "Medida": "libra (lb)",
+            "Conversion": "2.20462262"
+        },
+        {
+            "Sistema": "Avoirdupois (EE.UU/Gran Bretaña)",
+            "Medida": "onza (oz)",
+            "Conversion": "35.2739619"
+        },
+        {
+            "Sistema": "Avoirdupois (EE.UU/Gran Bretaña)",
+            "Medida": "dracma (dr)",
+            "Conversion": "564.383391"
+        },
+        {
+            "Sistema": "Avoirdupois (EE.UU/Gran Bretaña)",
+            "Medida": "grano (gr)",
+            "Conversion": "15432.3584"
+        },
+        {
+            "Sistema": "Sistema de Troy",
+            "Medida": "libra",
+            "Conversion": "2.67922888"
+        },
+        {
+            "Sistema": "Sistema de Troy",
+            "Medida": "onza (ozt)",
+            "Conversion": "32.1507466"
+        },
+        {
+            "Sistema": "Sistema de Troy",
+            "Medida": "pennyweight (dwt)",
+            "Conversion": "643.014931"
+        },
+        {
+            "Sistema": "Sistema de Troy",
+            "Medida": "quilate británico",
+            "Conversion": "4878.04878"
+        },
+        {
+            "Sistema": "Sistema de Troy",
+            "Medida": "grano",
+            "Conversion": "15432.3584"
+        },
+        {
+            "Sistema": "Sistema de Troy",
+            "Medida": "mite",
+            "Conversion": "308647.167"
+        },
+        {
+            "Sistema": "Sistema de Troy",
+            "Medida": "doite",
+            "Conversion": "7407532.01"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "libra (℔, ″)",
+            "Conversion": "2.67922888"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "onza (℥)",
+            "Conversion": "32.1507466"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "dracma (ʒ)",
+            "Conversion": "257.205973"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "escrúpulo (℈)",
+            "Conversion": "771.617918"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "grano (gr)",
+            "Conversion": "15432.3584"
+        },
+        {
+            "Sistema": "Unidades naturales (de Planck)",
+            "Medida": "masa de Planck (M)",
+            "Conversion": "45945086.5"
+        },
+        {
+            "Sistema": "Unidades indias (sistema Akbar)",
+            "Medida": "candy",
+            "Conversion": "0.001339614"
+        },
+        {
+            "Sistema": "Unidades indias (sistema Akbar)",
+            "Medida": "maund",
+            "Conversion": "0.026792289"
+        },
+        {
+            "Sistema": "Unidades indias (sistema Akbar)",
+            "Medida": "dhurra",
+            "Conversion": "0.21433831"
+        },
+        {
+            "Sistema": "Unidades indias (sistema Akbar)",
+            "Medida": "ralk",
+            "Conversion": "0.857353242"
+        },
+        {
+            "Sistema": "Unidades indias (sistema Akbar)",
+            "Medida": "sèr",
+            "Conversion": "1.07169155"
+        },
+        {
+            "Sistema": "Unidades indias (sistema Akbar)",
+            "Medida": "powa",
+            "Conversion": "4.28676621"
+        },
+        {
+            "Sistema": "Unidades indias (sistema Akbar)",
+            "Medida": "chittak",
+            "Conversion": "17.1470648"
+        },
+        {
+            "Sistema": "Unidades indias (sistema Akbar)",
+            "Medida": "parah",
+            "Conversion": "32.1507466"
+        },
+        {
+            "Sistema": "Unidades indias (sistema Akbar)",
+            "Medida": "tank",
+            "Conversion": "77.1617918"
+        },
+        {
+            "Sistema": "Unidades indias (sistema Akbar)",
+            "Medida": "tolä",
+            "Conversion": "85.7353242"
+        },
+        {
+            "Sistema": "Unidades indias (sistema Akbar)",
+            "Medida": "māshā",
+            "Conversion": "1028.82389"
+        },
+        {
+            "Sistema": "Unidades indias (sistema Akbar)",
+            "Medida": "rattī",
+            "Conversion": "8230.59112"
+        },
+        {
+            "Sistema": "Medidas japonesas",
+            "Medida": "kan, kanme (貫, 貫目)",
+            "Conversion": "0.266666667"
+        },
+        {
+            "Sistema": "Medidas japonesas",
+            "Medida": "kin (斤)",
+            "Conversion": "1.66666667"
+        },
+        {
+            "Sistema": "Medidas japonesas",
+            "Medida": "hyakume (百目)",
+            "Conversion": "2.66666667"
+        },
+        {
+            "Sistema": "Medidas japonesas",
+            "Medida": "monnme (匁)",
+            "Conversion": "266.666667"
+        },
+        {
+            "Sistema": "Medidas japonesas",
+            "Medida": "fun (分)",
+            "Conversion": "2666.66667"
+        },
+        {
+            "Sistema": "Unidades chinas desde 1959",
+            "Medida": "dan (市担 / 擔)",
+            "Conversion": "0.02"
+        },
+        {
+            "Sistema": "Unidades chinas desde 1959",
+            "Medida": "jin (市斤)",
+            "Conversion": "2"
+        },
+        {
+            "Sistema": "Unidades chinas desde 1959",
+            "Medida": "liang (市两)",
+            "Conversion": "20"
+        },
+        {
+            "Sistema": "Unidades chinas desde 1959",
+            "Medida": "qian (市钱)",
+            "Conversion": "200"
+        },
+        {
+            "Sistema": "Unidades chinas desde 1959",
+            "Medida": "fen (市分)",
+            "Conversion": "2000"
+        },
+        {
+            "Sistema": "Unidades chinas desde 1959",
+            "Medida": "li (市厘)",
+            "Conversion": "20000"
+        },
+        {
+            "Sistema": "Unidades chinas desde 1959",
+            "Medida": "hao (毫)",
+            "Conversion": "200000"
+        },
+        {
+            "Sistema": "Unidades chinas desde 1959",
+            "Medida": "si (絲)",
+            "Conversion": "2000000"
+        },
+        {
+            "Sistema": "Unidades chinas desde 1959",
+            "Medida": "hu (忽)",
+            "Conversion": "20000000"
+        },
+        {
+            "Sistema": "Unidades chinas entre 1930 y 1959",
+            "Medida": "dan (擔 / 担)",
+            "Conversion": "0.02"
+        },
+        {
+            "Sistema": "Unidades chinas entre 1930 y 1959",
+            "Medida": "jin (市斤)",
+            "Conversion": "2"
+        },
+        {
+            "Sistema": "Unidades chinas entre 1930 y 1959",
+            "Medida": "liang (市兩)",
+            "Conversion": "32"
+        },
+        {
+            "Sistema": "Unidades chinas entre 1930 y 1959",
+            "Medida": "qian (市錢)",
+            "Conversion": "320"
+        },
+        {
+            "Sistema": "Unidades chinas entre 1930 y 1959",
+            "Medida": "fen (市分)",
+            "Conversion": "3200"
+        },
+        {
+            "Sistema": "Unidades chinas entre 1930 y 1959",
+            "Medida": "li (市釐)",
+            "Conversion": "32000"
+        },
+        {
+            "Sistema": "Unidades chinas entre 1930 y 1959",
+            "Medida": "hao (毫)",
+            "Conversion": "320000"
+        },
+        {
+            "Sistema": "Unidades chinas entre 1930 y 1959",
+            "Medida": "si (絲)",
+            "Conversion": "3200000"
+        },
+        {
+            "Sistema": "Unidades chinas de 1915 antes de 1930",
+            "Medida": "jin (斤)",
+            "Conversion": "1.6755583"
+        },
+        {
+            "Sistema": "Unidades chinas de 1915 antes de 1930",
+            "Medida": "liang (兩)",
+            "Conversion": "26.8089327"
+        },
+        {
+            "Sistema": "Unidades chinas de 1915 antes de 1930",
+            "Medida": "qian (錢)",
+            "Conversion": "268.089327"
+        },
+        {
+            "Sistema": "Unidades chinas de 1915 antes de 1930",
+            "Medida": "fen (分)",
+            "Conversion": "2680.89327"
+        },
+        {
+            "Sistema": "Unidades chinas de 1915 antes de 1930",
+            "Medida": "li (釐)",
+            "Conversion": "26808.9327"
+        },
+        {
+            "Sistema": "Unidades chinas de 1915 antes de 1930",
+            "Medida": "hao (毫)",
+            "Conversion": "268089.327"
+        },
+        {
+            "Sistema": "Unidades de Tailanda",
+            "Medida": "hap (หาบ)",
+            "Conversion": "0.016666667"
+        },
+        {
+            "Sistema": "Unidades de Tailanda",
+            "Medida": "chang (ชั่ง)",
+            "Conversion": "0.833333333"
+        },
+        {
+            "Sistema": "Unidades de Tailanda",
+            "Medida": "tamlueng (ตำลึง)",
+            "Conversion": "16.6666667"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "baht (บาท)",
+            "Conversion": "66.6666667"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "baht en el comercio de oro",
+            "Conversion": "65.9630607"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "mayon/mayong (มายน/มะยง)",
+            "Conversion": "133.333333"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "salueng (สลึง)",
+            "Conversion": "266.666667"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "fueang (เฟื้อง)",
+            "Conversion": "533.333333"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "seek (ซีก)",
+            "Conversion": "1066.66667"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "siao/pai (เสี้ยว/ไพ)",
+            "Conversion": "2133.33333"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "ath (อัฐ)",
+            "Conversion": "4266.66667"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "solos (โสฬส)",
+            "Conversion": "8533.33333"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "bia (เบี้ย)",
+            "Conversion": "426666.667"
+        },
+        {
+            "Sistema": "Unidades de Hong-Kong",
+            "Medida": "pikul (tam)  !",
+            "Conversion": "0.01653467"
+        },
+        {
+            "Sistema": "Unidades de Hong-Kong",
+            "Medida": "catty (kan)  !",
+            "Conversion": "1.65346698"
+        },
+        {
+            "Sistema": "Unidades de Hong-Kong",
+            "Medida": "tael (leung)  !",
+            "Conversion": "26.4554718"
+        },
+        {
+            "Sistema": "Unidades de Hong-Kong",
+            "Medida": "mace (tsin)  !",
+            "Conversion": "264.554718"
+        },
+        {
+            "Sistema": "Unidades de Hong-Kong",
+            "Medida": "candareen (fan)  !",
+            "Conversion": "2645.54718"
+        },
+        {
+            "Sistema": "Unidades de Hong-Kong",
+            "Medida": "tael troy  !",
+            "Conversion": "26.7172513"
+        },
+        {
+            "Sistema": "Unidades de Hong-Kong",
+            "Medida": "mace troy  !",
+            "Conversion": "267.172513"
+        },
+        {
+            "Sistema": "Unidades de Hong-Kong",
+            "Medida": "candareen troy  !",
+            "Conversion": "2671.72513"
+        }
+    ],
+    "Longitud, distancia": [
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "kilómetro (km)",
+            "Conversion": "0.001"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "metro (m)",
+            "Conversion": "1"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "decímetro (dm)",
+            "Conversion": "10"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "centímetro (cm)",
+            "Conversion": "100"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "milímetro (mm)",
+            "Conversion": "1000"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "micrómetro (micrón)",
+            "Conversion": "1000000"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "nanómetro (nm)",
+            "Conversion": "1000000000"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "ångström",
+            "Conversion": "10000000000"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "legua",
+            "Conversion": "0.000207124"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "milla (mi)",
+            "Conversion": "0.000621371"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "land",
+            "Conversion": "0.000621371"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "furlong",
+            "Conversion": "0.00497097"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "bolt",
+            "Conversion": "0.027340333"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "chain",
+            "Conversion": "0.049709695"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "pole",
+            "Conversion": "0.198838782"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "rod (rd)",
+            "Conversion": "0.198838782"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "perch",
+            "Conversion": "0.198838782"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "yarda (yd)",
+            "Conversion": "1.0936133"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "foot (pie) (ft)",
+            "Conversion": "3.2808399"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "pies y pulgadas (x'y\")",
+            "Conversion": "3'3.37007874\""
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "span",
+            "Conversion": "4.3744608"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "hand (mano)",
+            "Conversion": "9.84251969"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "inch (pulgada) (in)",
+            "Conversion": "39.3700787"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "line (línea)",
+            "Conversion": "472.440945"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "mil",
+            "Conversion": "39370.0787"
+        },
+        {
+            "Sistema": "Unidades tradicionales de Estados Unidos y Gran Bretaña",
+            "Medida": "microinch",
+            "Conversion": "39370078.7"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "legua",
+            "Conversion": "0.000207124"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "milla (mi)",
+            "Conversion": "0.000621372"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "land",
+            "Conversion": "0.000621372"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "skein",
+            "Conversion": "0.00911346"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "bolt",
+            "Conversion": "0.02734038"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "shackle",
+            "Conversion": "0.03645384"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "furlong",
+            "Conversion": "0.004970978"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "chain",
+            "Conversion": "0.049709782"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "rope",
+            "Conversion": "0.16404228"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "pole",
+            "Conversion": "0.198839127"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "goad",
+            "Conversion": "0.7290768"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "ell",
+            "Conversion": "0.87489216"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "yarda (yd)",
+            "Conversion": "1.0936152"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "pace",
+            "Conversion": "1.31233824"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "cubit (cu)",
+            "Conversion": "2.1872304"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "foot (pie) (ft)",
+            "Conversion": "3.2808456"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "span (sp)",
+            "Conversion": "4.3744608"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "nail",
+            "Conversion": "4.3744608"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "shaftment",
+            "Conversion": "6.5616912"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "hand (mano) (hd)",
+            "Conversion": "9.8425368"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "palm (palmo) (plm)",
+            "Conversion": "13.1233824"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "inch (pulgada) (in)",
+            "Conversion": "39.3701472"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "finger",
+            "Conversion": "44.9944539"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "digit",
+            "Conversion": "52.4935296"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "barleycorn",
+            "Conversion": "118.110442"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "poppyseed",
+            "Conversion": "472.441766"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "line (linea)",
+            "Conversion": "472.441766"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "button",
+            "Conversion": "472.441766"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "caliber",
+            "Conversion": "3937.01472"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "thou (th)",
+            "Conversion": "39370.1472"
+        },
+        {
+            "Sistema": "Medidas de Gran Bretaña antes de 1962",
+            "Medida": "mil",
+            "Conversion": "39370.1472"
+        },
+        {
+            "Sistema": "EE.UU unidades de agrimensura",
+            "Medida": "furlong",
+            "Conversion": "0.00497096"
+        },
+        {
+            "Sistema": "EE.UU unidades de agrimensura",
+            "Medida": "chain de Ramsden (ingeniería) (ch)",
+            "Conversion": "0.032808399"
+        },
+        {
+            "Sistema": "EE.UU unidades de agrimensura",
+            "Medida": "chain de Gunter (agrimensura) (ch)",
+            "Conversion": "0.049709596"
+        },
+        {
+            "Sistema": "EE.UU unidades de agrimensura",
+            "Medida": "chain de Gurley (ch)",
+            "Conversion": "0.099419391"
+        },
+        {
+            "Sistema": "EE.UU unidades de agrimensura",
+            "Medida": "pole de Gunter (agrimensura)",
+            "Conversion": "0.198838384"
+        },
+        {
+            "Sistema": "EE.UU unidades de agrimensura",
+            "Medida": "yard de Gunter (agrimensura)",
+            "Conversion": "1.09361111"
+        },
+        {
+            "Sistema": "EE.UU unidades de agrimensura",
+            "Medida": "link de Ramsden (ingeniería)",
+            "Conversion": "3.2808399"
+        },
+        {
+            "Sistema": "EE.UU unidades de agrimensura",
+            "Medida": "link de Gunter (sagrimensura)",
+            "Conversion": "4.9709596"
+        },
+        {
+            "Sistema": "EE.UU unidades de agrimensura",
+            "Medida": "link de Gurley",
+            "Conversion": "4.97096954"
+        },
+        {
+            "Sistema": "EE.UU unidades de agrimensura",
+            "Medida": "foot de Gunter (agrimensura) (ft)",
+            "Conversion": "3.28083333"
+        },
+        {
+            "Sistema": "Unidades náuticas (international)",
+            "Medida": "legua náutica (naut.leag)",
+            "Conversion": "0.000179986"
+        },
+        {
+            "Sistema": "Unidades náuticas (international)",
+            "Medida": "milla náutica (naut.mi)",
+            "Conversion": "0.000539957"
+        },
+        {
+            "Sistema": "Unidades náuticas (international)",
+            "Medida": "cable (cbl)",
+            "Conversion": "0.005399568"
+        },
+        {
+            "Sistema": "Unidades náuticas (international)",
+            "Medida": "fathom (braza) (fath)",
+            "Conversion": "0.546806649"
+        },
+        {
+            "Sistema": "Unidades náuticas de EE.UU.",
+            "Medida": "milla náutica de EE.UU.",
+            "Conversion": "0.000539593"
+        },
+        {
+            "Sistema": "Unidades náuticas de EE.UU.",
+            "Medida": "cable de EE.UU",
+            "Conversion": "0.004556713"
+        },
+        {
+            "Sistema": "Unidades náuticas de EE.UU.",
+            "Medida": "fathom (braza) de EE.UU. (fath)",
+            "Conversion": "0.546805556"
+        },
+        {
+            "Sistema": "Unidades náuticas de Gran Bretaña",
+            "Medida": "Admiralty milla",
+            "Conversion": "0.000539612"
+        },
+        {
+            "Sistema": "Unidades náuticas de Gran Bretaña",
+            "Medida": "Admiralty cable",
+            "Conversion": "0.005396118"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "cuadra de Argentina",
+            "Conversion": "0.007698229"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "cuadra de Bolivia",
+            "Conversion": "0.01"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "cuadra de Chile",
+            "Conversion": "0.007975118"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "cuadra de Colombia",
+            "Conversion": "0.0125"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "cuadra de Ecuador",
+            "Conversion": "0.011904762"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "cuadra de Nicaragua",
+            "Conversion": "0.011904762"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "cuadra de Paraguay",
+            "Conversion": "0.011539349"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "cuadra de Uruguay",
+            "Conversion": "0.011641443"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Argentina",
+            "Conversion": "1.15473441"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Brasil",
+            "Conversion": "0.909090909"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Chile",
+            "Conversion": "1.19631535"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Colombia",
+            "Conversion": "1.25"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Costa Rica",
+            "Conversion": "1.19617225"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Cuba",
+            "Conversion": "1.17924528"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de República Dominicana",
+            "Conversion": "1.19617225"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Ecuador",
+            "Conversion": "1.19047619"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de El Salvador",
+            "Conversion": "1.19303269"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Guatemala",
+            "Conversion": "1.19047619"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Honduras",
+            "Conversion": "1.19760479"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de México",
+            "Conversion": "1.19331742"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Nicaragua",
+            "Conversion": "1.19047619"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Panamá",
+            "Conversion": "1.25"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Paraguay",
+            "Conversion": "1.15127792"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Perú (peruana)",
+            "Conversion": "1.19303269"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Perú (española)",
+            "Conversion": "1.19620087"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Uruguay",
+            "Conversion": "1.16414435"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Santo Tomé y Príncipe",
+            "Conversion": "1.19047619"
+        },
+        {
+            "Sistema": "Unidades españolas habituales todavía en uso hoy",
+            "Medida": "vara de Venezuela",
+            "Conversion": "1.19617225"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "ri (里)",
+            "Conversion": "0.00025463"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "cho (町)",
+            "Conversion": "0.009166667"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "jo (丈)",
+            "Conversion": "0.33"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "hiro (尋)",
+            "Conversion": "0.55"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "ken (間)",
+            "Conversion": "0.55"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "shaku (尺)",
+            "Conversion": "3.3"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "sun (寸)",
+            "Conversion": "33"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "bu (分)",
+            "Conversion": "330"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "rin (厘)",
+            "Conversion": "3300"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "mo (毛, 毫)",
+            "Conversion": "33000"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1930",
+            "Medida": "li (市里)",
+            "Conversion": "0.002"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1930",
+            "Medida": "yin (引)",
+            "Conversion": "0.03"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1930",
+            "Medida": "zhang (市丈)",
+            "Conversion": "0.3"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1930",
+            "Medida": "chi (市尺)",
+            "Conversion": "3"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1930",
+            "Medida": "cun (市寸)",
+            "Conversion": "30"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1930",
+            "Medida": "fen (市分)",
+            "Conversion": "300"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1930",
+            "Medida": "li (釐 o 厘)",
+            "Conversion": "3000"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1930",
+            "Medida": "hao (毫)",
+            "Conversion": "30000"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1930",
+            "Medida": "si (丝)",
+            "Conversion": "300000"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1930",
+            "Medida": "hu (忽)",
+            "Conversion": "3000000"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1915",
+            "Medida": "li (里)",
+            "Conversion": "0.001736111"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1915",
+            "Medida": "yin (引)",
+            "Conversion": "0.03125"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1915",
+            "Medida": "zhang (丈)",
+            "Conversion": "0.03125"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1915",
+            "Medida": "bu (步)",
+            "Conversion": "0.625"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1915",
+            "Medida": "chi (尺)",
+            "Conversion": "3.125"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1915",
+            "Medida": "cun (寸)",
+            "Conversion": "31.25"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1915",
+            "Medida": "fen (分)",
+            "Conversion": "312.5"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1915",
+            "Medida": "li (釐 o 厘)",
+            "Conversion": "3125"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1915",
+            "Medida": "hao (毫)",
+            "Conversion": "31250"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1915",
+            "Medida": "si (丝)",
+            "Conversion": "312500"
+        },
+        {
+            "Sistema": "Unidades de medida de China de 1915",
+            "Medida": "hu (忽)",
+            "Conversion": "3125000"
+        },
+        {
+            "Sistema": "Unidades de Hong Kong",
+            "Medida": "cek (尺)",
+            "Conversion": "2.6919712"
+        },
+        {
+            "Sistema": "Unidades de Hong Kong",
+            "Medida": "tsun (寸)",
+            "Conversion": "26.919712"
+        },
+        {
+            "Sistema": "Unidades de Hong Kong",
+            "Medida": "fan (分)",
+            "Conversion": "269.19712"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "yot (โยชน์, legua)",
+            "Conversion": "0.0000625"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "sen (เส้น, línea)",
+            "Conversion": "0.025"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "wa (วา, braza)",
+            "Conversion": "0.5"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "sok (ศอก, codo)",
+            "Conversion": "2"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "khuep (คืบ, palmo)",
+            "Conversion": "4"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "nio (นิ้ว, dedo)",
+            "Conversion": "48"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "krabiat (กระเบียด cuarto de dedo)",
+            "Conversion": "192"
+        },
+        {
+            "Sistema": "Medidas ópticas",
+            "Medida": "dioptrio",
+            "Conversion": "1"
+        },
+        {
+            "Sistema": "Medidas geográficas (alemanas)",
+            "Medida": "milla geográfica",
+            "Conversion": "0.000134771"
+        },
+        {
+            "Sistema": "Equipos De Computación",
+            "Medida": "unidad rack (U)",
+            "Conversion": "22.4971879"
+        },
+        {
+            "Sistema": "Equipos De Computación",
+            "Medida": "horizontal pitch (HP)",
+            "Conversion": "196.850394"
+        },
+        {
+            "Sistema": "Medidas tipográficas (sistema ATA)",
+            "Medida": "pica",
+            "Conversion": "236.220472"
+        },
+        {
+            "Sistema": "Medidas tipográficas (sistema ATA)",
+            "Medida": "pica [PostScript]",
+            "Conversion": "236.220472"
+        },
+        {
+            "Sistema": "Medidas tipográficas (sistema ATA)",
+            "Medida": "punto (pt)",
+            "Conversion": "2834.64567"
+        },
+        {
+            "Sistema": "Medidas tipográficas (sistema ATA)",
+            "Medida": "punto [PostScript] (pt)",
+            "Conversion": "2834.64567"
+        },
+        {
+            "Sistema": "Medidas tipográficas (sistema ATA)",
+            "Medida": "píxel (px)",
+            "Conversion": "3779.52756"
+        },
+        {
+            "Sistema": "Medidas tipográficas (sistema ATA)",
+            "Medida": "twip",
+            "Conversion": "56692.9134"
+        },
+        {
+            "Sistema": "Medidas tipográficas (Europa - sistema Didot)",
+            "Medida": "cícero",
+            "Conversion": "221.648"
+        },
+        {
+            "Sistema": "Medidas tipográficas (Europa - sistema Didot)",
+            "Medida": "punto (pt)",
+            "Conversion": "2659.776"
+        },
+        {
+            "Sistema": "Unidad europea del calzado",
+            "Medida": "Paris punto",
+            "Conversion": "150"
+        },
+        {
+            "Sistema": "Medidas astronómicas",
+            "Medida": "corrimiento al rojo (z)",
+            "Conversion": "0.000000000000000000000000007676"
+        },
+        {
+            "Sistema": "Medidas astronómicas",
+            "Medida": "pársec (pc)",
+            "Conversion": "0.00000000000000"
+        },
+        {
+            "Sistema": "Medidas astronómicas",
+            "Medida": "año luz",
+            "Conversion": "0.00000000000000"
+        },
+        {
+            "Sistema": "Medidas astronómicas",
+            "Medida": "unidad astronómica (au)",
+            "Conversion": "6.68e-12"
+        },
+        {
+            "Sistema": "Medidas astronómicas",
+            "Medida": "minuto luz",
+            "Conversion": "5.559e-11"
+        },
+        {
+            "Sistema": "Medidas astronómicas",
+            "Medida": "segundo luz",
+            "Conversion": "3.33564E-09"
+        },
+        {
+            "Sistema": "Las unidades de distancia de Grace Hopper",
+            "Medida": "microsegundo de luz",
+            "Conversion": "0.003335641"
+        },
+        {
+            "Sistema": "Las unidades de distancia de Grace Hopper",
+            "Medida": "nanosegundo de luz",
+            "Conversion": "3.33564095"
+        },
+        {
+            "Sistema": "Las unidades de distancia de Grace Hopper",
+            "Medida": "picosegundo de luz",
+            "Conversion": "3335.64095"
+        },
+        {
+            "Sistema": "Unidades naturales (de Planck)",
+            "Medida": "longitud de Planck (L)",
+            "Conversion": "6.18735317e+34"
+        }
+    ],
+    "Volumen, capacidad": [
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "kilometro cúbico (km³)",
+            "Conversion": "0.000000001"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "metro cúbico (m³)",
+            "Conversion": "1"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "decimetro cúbico (dm³)",
+            "Conversion": "1000"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "centímetro cúbico (cc)",
+            "Conversion": "1000000"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "milímetro cúbico (mm³)",
+            "Conversion": "1000000000"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "hectolitro (hl)",
+            "Conversion": "10"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "decalitro",
+            "Conversion": "100"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "litro (l)",
+            "Conversion": "1000"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "decilitro (dl)",
+            "Conversion": "10000"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "centilitro (cl)",
+            "Conversion": "100000"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "mililitro (ml)",
+            "Conversion": "1000000"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "microlitro (µl)",
+            "Conversion": "10000000"
+        },
+        {
+            "Sistema": "EE.UU (líquidos)",
+            "Medida": "acre-pie",
+            "Conversion": "0.000810713"
+        },
+        {
+            "Sistema": "EE.UU (líquidos)",
+            "Medida": "barril (petróleo)",
+            "Conversion": "6.28981077"
+        },
+        {
+            "Sistema": "EE.UU (líquidos)",
+            "Medida": "galón (gal)",
+            "Conversion": "264.172052"
+        },
+        {
+            "Sistema": "EE.UU (líquidos)",
+            "Medida": "cuarto (qt)",
+            "Conversion": "1056.68821"
+        },
+        {
+            "Sistema": "EE.UU (líquidos)",
+            "Medida": "pinta (pt)",
+            "Conversion": "2113.37642"
+        },
+        {
+            "Sistema": "EE.UU (líquidos)",
+            "Medida": "gill",
+            "Conversion": "8453.50568"
+        },
+        {
+            "Sistema": "EE.UU (líquidos)",
+            "Medida": "onza líquida (fl oz)",
+            "Conversion": "33814.0227"
+        },
+        {
+            "Sistema": "EE.UU (líquidos)",
+            "Medida": "dracma (dram) líquido (fl dr)",
+            "Conversion": "270512.182"
+        },
+        {
+            "Sistema": "EE.UU (líquidos)",
+            "Medida": "minim (min)",
+            "Conversion": "16230730.9"
+        },
+        {
+            "Sistema": "EE.UU (medida seca)",
+            "Medida": "barril",
+            "Conversion": "8.64848981"
+        },
+        {
+            "Sistema": "EE.UU (medida seca)",
+            "Medida": "bushel (bu)",
+            "Conversion": "28.3775933"
+        },
+        {
+            "Sistema": "EE.UU (medida seca)",
+            "Medida": "peck (pk)",
+            "Conversion": "113.510373"
+        },
+        {
+            "Sistema": "EE.UU (medida seca)",
+            "Medida": "galón seco (gal)",
+            "Conversion": "227.020746"
+        },
+        {
+            "Sistema": "EE.UU (medida seca)",
+            "Medida": "cuarto (qt)",
+            "Conversion": "908.082984"
+        },
+        {
+            "Sistema": "EE.UU (medida seca)",
+            "Medida": "pinta (pt)",
+            "Conversion": "1816.16597"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "pinta (pt)",
+            "Conversion": "2113.37642"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "vaso de cristal",
+            "Conversion": "4226.75284"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "taza de desayuno  !",
+            "Conversion": "4226.75284"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "taza de te",
+            "Conversion": "6762.80454"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "copa de vino",
+            "Conversion": "16907.0114"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "onza líquida (ƒ℥)",
+            "Conversion": "33814.0227"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "cucharada",
+            "Conversion": "67628.0454"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "cucharada de postre",
+            "Conversion": "135256.091"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "dram líquido (ƒʒ)",
+            "Conversion": "270512.182"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "cucharadita",
+            "Conversion": "270512.182"
+        },
+        {
+            "Sistema": "Apothecaries (sistema inglés de los boticarios)",
+            "Medida": "minim",
+            "Conversion": "16230730.9"
+        },
+        {
+            "Sistema": "Medidas inglesas (imperiales)",
+            "Medida": "perch",
+            "Conversion": "1.42685522"
+        },
+        {
+            "Sistema": "Medidas inglesas (imperiales)",
+            "Medida": "barril",
+            "Conversion": "6.1102569"
+        },
+        {
+            "Sistema": "Medidas inglesas (imperiales)",
+            "Medida": "bushel (bu)",
+            "Conversion": "27.496156"
+        },
+        {
+            "Sistema": "Medidas inglesas (imperiales)",
+            "Medida": "peck (pk)",
+            "Conversion": "109.984624"
+        },
+        {
+            "Sistema": "Medidas inglesas (imperiales)",
+            "Medida": "galón (gal)",
+            "Conversion": "219.969248"
+        },
+        {
+            "Sistema": "Medidas inglesas (imperiales)",
+            "Medida": "cuarto (qt)",
+            "Conversion": "879.876993"
+        },
+        {
+            "Sistema": "Medidas inglesas (imperiales)",
+            "Medida": "pinta (pt)",
+            "Conversion": "1759.75399"
+        },
+        {
+            "Sistema": "Medidas inglesas (imperiales)",
+            "Medida": "onza líquida (oz)",
+            "Conversion": "35195.0797"
+        },
+        {
+            "Sistema": "Medidas inglesas (imperiales)",
+            "Medida": "dracma (dram) líquido (fl dr)",
+            "Conversion": "281560.638"
+        },
+        {
+            "Sistema": "Medidas inglesas (imperiales)",
+            "Medida": "escrúpulo líquido",
+            "Conversion": "844681.913"
+        },
+        {
+            "Sistema": "Medidas inglesas (imperiales)",
+            "Medida": "minim (min)",
+            "Conversion": "16893638.3"
+        },
+        {
+            "Sistema": "Unidades derivadas (longitud) inglesas y americanas",
+            "Medida": "milla cúbica (mi³)",
+            "Conversion": "2.39913E-10"
+        },
+        {
+            "Sistema": "Unidades derivadas (longitud) inglesas y americanas",
+            "Medida": "mil pie cúbico (mcf)",
+            "Conversion": "0.035314667"
+        },
+        {
+            "Sistema": "Unidades derivadas (longitud) inglesas y americanas",
+            "Medida": "yarda cúbica (yd³)",
+            "Conversion": "1.30795062"
+        },
+        {
+            "Sistema": "Unidades derivadas (longitud) inglesas y americanas",
+            "Medida": "centum pie cúbico (ccf)",
+            "Conversion": "0.353146667"
+        },
+        {
+            "Sistema": "Unidades derivadas (longitud) inglesas y americanas",
+            "Medida": "pie cúbico (ft³)",
+            "Conversion": "35.3146667"
+        },
+        {
+            "Sistema": "Unidades derivadas (longitud) inglesas y americanas",
+            "Medida": "pulgada cúbica (in³)",
+            "Conversion": "61023.7441"
+        },
+        {
+            "Sistema": "Unidades de barril de vino inglés",
+            "Medida": "tun",
+            "Conversion": "1.04747261"
+        },
+        {
+            "Sistema": "Unidades de barril de vino inglés",
+            "Medida": "butt",
+            "Conversion": "2.09494522"
+        },
+        {
+            "Sistema": "Unidades de barril de vino inglés",
+            "Medida": "puncheon",
+            "Conversion": "3.14241783"
+        },
+        {
+            "Sistema": "Unidades de barril de vino inglés",
+            "Medida": "hogshead",
+            "Conversion": "4.18989044"
+        },
+        {
+            "Sistema": "Unidades de barril de vino inglés",
+            "Medida": "tierce",
+            "Conversion": "6.28483567"
+        },
+        {
+            "Sistema": "Unidades de barril de vino inglés",
+            "Medida": "barril",
+            "Conversion": "8.37978089"
+        },
+        {
+            "Sistema": "Unidades de barril de vino inglés",
+            "Medida": "rundlet",
+            "Conversion": "14.6646166"
+        },
+        {
+            "Sistema": "Unidades de barril de cervecería inglesa",
+            "Medida": "hogshead",
+            "Conversion": "1.01837615"
+        },
+        {
+            "Sistema": "Unidades de barril de cervecería inglesa",
+            "Medida": "barril",
+            "Conversion": "6.1102569"
+        },
+        {
+            "Sistema": "Unidades de barril de cervecería inglesa",
+            "Medida": "kilderkin",
+            "Conversion": "12.2205138"
+        },
+        {
+            "Sistema": "Unidades de barril de cervecería inglesa",
+            "Medida": "firkin",
+            "Conversion": "24.4410276"
+        },
+        {
+            "Sistema": "Unidades de barril de cervecería inglesa",
+            "Medida": "pin",
+            "Conversion": "48.8820552"
+        },
+        {
+            "Sistema": "Unidades de barril de cervecería de EE.UU.",
+            "Medida": "Barril de cerveza estadounidense",
+            "Conversion": "8.52167911"
+        },
+        {
+            "Sistema": "Unidades de barril de cervecería de EE.UU.",
+            "Medida": "Cerveza estadounidense medio barril",
+            "Conversion": "17.0433582"
+        },
+        {
+            "Sistema": "Unidades de barril de cervecería de EE.UU.",
+            "Medida": "Tamaño de cerveza estadounidense (típico)",
+            "Conversion": "17.0433582"
+        },
+        {
+            "Sistema": "Unidades de barril de cervecería de EE.UU.",
+            "Medida": "Cerveza estadounidense cuarto de barril",
+            "Conversion": "34.0867164"
+        },
+        {
+            "Sistema": "Unidades de cocina (EE.UU)",
+            "Medida": "taza",
+            "Conversion": "4226.75284"
+        },
+        {
+            "Sistema": "Unidades de cocina (EE.UU)",
+            "Medida": "cucharada",
+            "Conversion": "67628.0454"
+        },
+        {
+            "Sistema": "Unidades de cocina (EE.UU)",
+            "Medida": "cucharadita",
+            "Conversion": "202884.136"
+        },
+        {
+            "Sistema": "Unidades de cocina (internacional)",
+            "Medida": "taza  !",
+            "Conversion": "4166.66667"
+        },
+        {
+            "Sistema": "Unidades de cocina (internacional)",
+            "Medida": "cucharada",
+            "Conversion": "66666.6667"
+        },
+        {
+            "Sistema": "Unidades de cocina (internacional)",
+            "Medida": "cucharadita",
+            "Conversion": "200000"
+        },
+        {
+            "Sistema": "Unidades de cocina (Australia)",
+            "Medida": "cucharada",
+            "Conversion": "50000"
+        },
+        {
+            "Sistema": "Unidades de cocina (Australia)",
+            "Medida": "cuchara de postre",
+            "Conversion": "100000"
+        },
+        {
+            "Sistema": "Unidades de cocina (Australia)",
+            "Medida": "cucharadita",
+            "Conversion": "200000"
+        },
+        {
+            "Sistema": "Unidades naturales (de Planck)",
+            "Medida": "volumen de Planck (L³)",
+            "Conversion": "2.36731776E+104"
+        },
+        {
+            "Sistema": "Medidas astronómicas",
+            "Medida": "parsec cúbico (pc³)",
+            "Conversion": "3.40367719E-50"
+        },
+        {
+            "Sistema": "Medidas astronómicas",
+            "Medida": "año luz cúbico",
+            "Conversion": "1.18093499E-48"
+        },
+        {
+            "Sistema": "Medidas astronómicas",
+            "Medida": "minuto luz cúbico",
+            "Conversion": "1.71824125E-31"
+        },
+        {
+            "Sistema": "Medidas astronómicas",
+            "Medida": "segundo luz cúbico",
+            "Conversion": "3.71140109E-26"
+        },
+        {
+            "Sistema": "Tonelaje de un barco",
+            "Medida": "arqueo",
+            "Conversion": "0.2"
+        },
+        {
+            "Sistema": "Tonelaje de un barco",
+            "Medida": "arqueo de registro",
+            "Conversion": "0.353146667"
+        },
+        {
+            "Sistema": "Tonelaje de un barco",
+            "Medida": "Sistema Universal de Arqueo de Buques del Canal de Panamá (CP/SUAB)",
+            "Conversion": "0.353146667"
+        },
+        {
+            "Sistema": "Medida madera",
+            "Medida": "millón de pies tablares (mmfbm, mmbdft, mmbf)",
+            "Conversion": "0.000423776"
+        },
+        {
+            "Sistema": "Medida madera",
+            "Medida": "cord",
+            "Conversion": "0.275895834"
+        },
+        {
+            "Sistema": "Medida madera",
+            "Medida": "mil pies tablares (mfbm, mbdft, mbf)",
+            "Conversion": "0.423776001"
+        },
+        {
+            "Sistema": "Medida madera",
+            "Medida": "hoppus tonelada (HT)",
+            "Conversion": "0.554721488"
+        },
+        {
+            "Sistema": "Medida madera",
+            "Medida": "tonelada cúbica de madera",
+            "Conversion": "0.882866668"
+        },
+        {
+            "Sistema": "Medida madera",
+            "Medida": "estéreo",
+            "Conversion": "1"
+        },
+        {
+            "Sistema": "Medida madera",
+            "Medida": "hoppus pie (h ft)",
+            "Conversion": "27.7360744"
+        },
+        {
+            "Sistema": "Medida madera",
+            "Medida": "pie tablar (fbmm, bdft, bf)",
+            "Conversion": "423.776001"
+        },
+        {
+            "Sistema": "Medidas japonesas",
+            "Medida": "sai (才)",
+            "Conversion": "554352.353"
+        },
+        {
+            "Sistema": "Medidas japonesas",
+            "Medida": "shaku (勺)",
+            "Conversion": "55435.2353"
+        },
+        {
+            "Sistema": "Medidas japonesas",
+            "Medida": "go (合)",
+            "Conversion": "5543.52353"
+        },
+        {
+            "Sistema": "Medidas japonesas",
+            "Medida": "sho (升)",
+            "Conversion": "554.352353"
+        },
+        {
+            "Sistema": "Medidas japonesas",
+            "Medida": "to (斗)",
+            "Conversion": "55.4352353"
+        },
+        {
+            "Sistema": "Medidas japonesas",
+            "Medida": "koku (石)",
+            "Conversion": "5.54352353"
+        },
+        {
+            "Sistema": "Unidades chinas desde 1930",
+            "Medida": "dan (市石)",
+            "Conversion": "10"
+        },
+        {
+            "Sistema": "Unidades chinas desde 1930",
+            "Medida": "dou (市斗)",
+            "Conversion": "100"
+        },
+        {
+            "Sistema": "Unidades chinas desde 1930",
+            "Medida": "sheng (市升)",
+            "Conversion": "1000"
+        },
+        {
+            "Sistema": "Unidades chinas desde 1930",
+            "Medida": "ge (合)",
+            "Conversion": "10000"
+        },
+        {
+            "Sistema": "Unidades chinas desde 1930",
+            "Medida": "shao (勺)",
+            "Conversion": "100000"
+        },
+        {
+            "Sistema": "Unidades chinas desde 1930",
+            "Medida": "cuo (撮)",
+            "Conversion": "1000000"
+        },
+        {
+            "Sistema": "Unidades chinas de 1915",
+            "Medida": "dan (石)",
+            "Conversion": "9.65746143"
+        },
+        {
+            "Sistema": "Unidades chinas de 1915",
+            "Medida": "hu (斛)",
+            "Conversion": "19.3149229"
+        },
+        {
+            "Sistema": "Unidades chinas de 1915",
+            "Medida": "dou (斗)",
+            "Conversion": "96.5746143"
+        },
+        {
+            "Sistema": "Unidades chinas de 1915",
+            "Medida": "sheng (升)",
+            "Conversion": "965.746143"
+        },
+        {
+            "Sistema": "Unidades chinas de 1915",
+            "Medida": "ge (合)",
+            "Conversion": "9657.46143"
+        },
+        {
+            "Sistema": "Unidades chinas de 1915",
+            "Medida": "shao (勺)",
+            "Conversion": "96574.6143"
+        },
+        {
+            "Sistema": "Medidas de Tailandia",
+            "Medida": "kwian (เกวียน, carretada)",
+            "Conversion": "0.5"
+        },
+        {
+            "Sistema": "Medidas de Tailandia",
+            "Medida": "sat (สัด, cesta)",
+            "Conversion": "40"
+        },
+        {
+            "Sistema": "Medidas de Tailandia",
+            "Medida": "thang (ถัง, tanque)",
+            "Conversion": "50"
+        },
+        {
+            "Sistema": "Medidas de Tailandia",
+            "Medida": "thanan (ทะนาน, cáscara de coco)",
+            "Conversion": "1000"
+        },
+        {
+            "Sistema": "Medidas de Tailandia",
+            "Medida": "fai mue (ฟายมือ, palma de grano)",
+            "Conversion": "8000"
+        },
+        {
+            "Sistema": "Medidas de Tailandia",
+            "Medida": "kam mue (กำมือ, mano de grano)",
+            "Conversion": "32000"
+        },
+        {
+            "Sistema": "Medidas de Tailandia",
+            "Medida": "yip mue (หยิบมือ, pizca)",
+            "Conversion": "128000"
+        }
+    ],
+    "Superficie, área": [
+        {
+            "Sistema": "Sistema métrico",
+            "Medida": "kilómetro cuadrado (km²)",
+            "Conversion": "0.000001"
+        },
+        {
+            "Sistema": "Sistema métrico",
+            "Medida": "hectárea",
+            "Conversion": "0.0001"
+        },
+        {
+            "Sistema": "Sistema métrico",
+            "Medida": "decar",
+            "Conversion": "0.001"
+        },
+        {
+            "Sistema": "Sistema métrico",
+            "Medida": "área (a)",
+            "Conversion": "0.01"
+        },
+        {
+            "Sistema": "Sistema métrico",
+            "Medida": "metro cuadrado (m²)",
+            "Conversion": "1"
+        },
+        {
+            "Sistema": "Sistema métrico",
+            "Medida": "decímetro cuadrado (dm²)",
+            "Conversion": "100"
+        },
+        {
+            "Sistema": "Sistema métrico",
+            "Medida": "centímetro cuadrado (cm²)",
+            "Conversion": "10000"
+        },
+        {
+            "Sistema": "Sistema métrico",
+            "Medida": "milímetro cuadrado (mm²)",
+            "Conversion": "1000000"
+        },
+        {
+            "Sistema": "Sistema métrico",
+            "Medida": "barn (b)",
+            "Conversion": "1.00E+28"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "municipio",
+            "Conversion": "1.07251E-08"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "milla cuadrada",
+            "Conversion": "3.8612E-07"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "patrimonio familiar",
+            "Conversion": "1.54441E-06"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "acre",
+            "Conversion": "0.000247105"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "rood",
+            "Conversion": "0.000988422"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "rod cuadrada",
+            "Conversion": "0.039536861"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "perch",
+            "Conversion": "0.039536861"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "yarda cuadrada (yd²)",
+            "Conversion": "1.19599005"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "pie cuadrado (ft²)",
+            "Conversion": "10.7639104"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "pulgada cuadrada (in²)",
+            "Conversion": "1550.0031"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "mil cuadrado (th²)",
+            "Conversion": "1550003100"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "dulum (дулум) de Bosnia y Herzegovina y Serbia",
+            "Conversion": "0.001"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "dynym o dylym de Albania",
+            "Conversion": "0.001"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "donum de Chipre",
+            "Conversion": "0.002446343"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "skales (σκάλες) de Chipre",
+            "Conversion": "0.001"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "stremma (στρέμμα) de Grecia",
+            "Conversion": "0.001"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "stremma turca de Grecia",
+            "Conversion": "0.000787402"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "dunam de Irak",
+            "Conversion": "0.0004"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "dunam (dönüm, دونم) de Turquía, Siria, Israel, Palestina, Jordania, Líbano",
+            "Conversion": "0.001"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "edad (antes de 1928) dunam (dönüm, دونم) de Turquía, Siria, Israel, Palestina, Jordania, Líbano",
+            "Conversion": "0.001087813"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "feddan (فدّان‎) de Egipto, Sudán, Siria, Omán",
+            "Conversion": "0.000238095"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "kirat (قيراط) de Egipto",
+            "Conversion": "0.005714286"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "manzana de Argentina",
+            "Conversion": "0.0001"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "manzana de Belice",
+            "Conversion": "0.000119717"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "manzana de Costa Rica",
+            "Conversion": "0.000143083"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "manzana de Guatemala",
+            "Conversion": "0.000141723"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "manzana de Honduras",
+            "Conversion": "0.000143426"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "manzana de Nicaragua",
+            "Conversion": "0.000142857"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "cuadra de Argentina",
+            "Conversion": "5.92768E-05"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "cuadra de Chile",
+            "Conversion": "6.3593E-05"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "cuadra de Ecuador",
+            "Conversion": "0.000141723"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "cuadra de Paraguay",
+            "Conversion": "0.000133333"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "cuadra de Peru",
+            "Conversion": "0.0001"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "cuadra de Uruguay",
+            "Conversion": "0.00013552"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "vara cuadrada de Panamá y Columbia",
+            "Conversion": "1.5625"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "vara cuadrada de Chile, Costa Rica, República Dominicana, Ecuador, El Salvador, Guatemala, Honduras, México, Nicaragua, Peru, Santo Tomé y Príncipe, Venezuela",
+            "Conversion": "1.41723356"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "vara cuadrada de Cuba",
+            "Conversion": "1.39061944"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "vara cuadrada de Argentina, Paraguay, Uruguay",
+            "Conversion": "1.33649637"
+        },
+        {
+            "Sistema": "Unidades históricos todavía en uso",
+            "Medida": "vara cuadrada de Brasil",
+            "Conversion": "0.826446281"
+        },
+        {
+            "Sistema": "Unidades de medición de calibre de alambre",
+            "Medida": "pulgada circular",
+            "Conversion": "1973.52524"
+        },
+        {
+            "Sistema": "Unidades de medición de calibre de alambre",
+            "Medida": "miles de mils circulares (kcmil, MCM)",
+            "Conversion": "1973525.24"
+        },
+        {
+            "Sistema": "Unidades de medición de calibre de alambre",
+            "Medida": "mil circular (cmil)",
+            "Conversion": "1973525241"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "shaku (勺)",
+            "Conversion": "30.25"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "go (合)",
+            "Conversion": "3.025"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "jo (畳)",
+            "Conversion": "0.605"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "tsubo (坪)",
+            "Conversion": "0.3025"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "bu (歩)",
+            "Conversion": "0.3025"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "se (畝)",
+            "Conversion": "0.010083333"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "tan (段, 反)",
+            "Conversion": "0.001008333"
+        },
+        {
+            "Sistema": "Unidades japonesas",
+            "Medida": "cho (町, 町歩)",
+            "Conversion": "0.000100833"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1930",
+            "Medida": "qing (頃 or 顷)",
+            "Conversion": "0.000015"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1930",
+            "Medida": "mu (畝 or 亩)",
+            "Conversion": "0.0015"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1930",
+            "Medida": "fen (市分)",
+            "Conversion": "0.015"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1930",
+            "Medida": "fang zhang (方丈) (zhang²)",
+            "Conversion": "0.09"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1930",
+            "Medida": "li (釐 or 厘)",
+            "Conversion": "0.15"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1930",
+            "Medida": "hao (毫)",
+            "Conversion": "1.5"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1930",
+            "Medida": "fang chi (方尺) (chi²)",
+            "Conversion": "9"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1930",
+            "Medida": "fang cun (方寸) (cun²)",
+            "Conversion": "900"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1915",
+            "Medida": "qing (頃 or 顷)",
+            "Conversion": "1.6276E-05"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1915",
+            "Medida": "mu (畝 or 亩)",
+            "Conversion": "0.001627604"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1915",
+            "Medida": "fen (分)",
+            "Conversion": "0.016276042"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1915",
+            "Medida": "fang zhang (方丈) (zhang²)",
+            "Conversion": "0.09765625"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1915",
+            "Medida": "li (釐 or 厘)",
+            "Conversion": "0.162760417"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1915",
+            "Medida": "hao (毫)",
+            "Conversion": "1.62760417"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1915",
+            "Medida": "fang chi (方尺) (chi²)",
+            "Conversion": "9.765625"
+        },
+        {
+            "Sistema": "Unidades de medición en China de 1915",
+            "Medida": "fang cun (方寸) (cun²)",
+            "Conversion": "976.5625"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "rai (ไร่)",
+            "Conversion": "0.000625"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "ngan (งาน)",
+            "Conversion": "0.0025"
+        },
+        {
+            "Sistema": "Unidades de Tailandia",
+            "Medida": "tarang wah (ตารางวา, wa cuadrada)",
+            "Conversion": "0.25"
+        },
+        {
+            "Sistema": "Unidades naturales (de Planck)",
+            "Medida": "superficie de Planck (L²)",
+            "Conversion": "3.82814683E+69"
+        }
+    ],
+    "Velocidad": [
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "kilómetros por segundo (km/s)",
+            "Conversion": "0.001"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "metros por segundo (m/s)",
+            "Conversion": "1"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "kilómetros por minuto",
+            "Conversion": "0.06"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "metros por minuto",
+            "Conversion": "60"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "kilómetros por hora",
+            "Conversion": "3.6"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "metros por hora",
+            "Conversion": "3600"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "kilómetros por año",
+            "Conversion": "31556.926"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "metros por año",
+            "Conversion": "31556926"
+        },
+        {
+            "Sistema": "EE.UU y Gran Bretaña",
+            "Medida": "milla por segundo",
+            "Conversion": "0.000621371"
+        },
+        {
+            "Sistema": "EE.UU y Gran Bretaña",
+            "Medida": "pie por segundo",
+            "Conversion": "3.2808399"
+        },
+        {
+            "Sistema": "EE.UU y Gran Bretaña",
+            "Medida": "pulgada por segundo",
+            "Conversion": "39.370079"
+        },
+        {
+            "Sistema": "EE.UU y Gran Bretaña",
+            "Medida": "mile por minuto",
+            "Conversion": "0.037282272"
+        },
+        {
+            "Sistema": "EE.UU y Gran Bretaña",
+            "Medida": "pie por minuto",
+            "Conversion": "196.85039"
+        },
+        {
+            "Sistema": "EE.UU y Gran Bretaña",
+            "Medida": "pulgada por minuto",
+            "Conversion": "2362.2047"
+        },
+        {
+            "Sistema": "EE.UU y Gran Bretaña",
+            "Medida": "milla por hora (mph)",
+            "Conversion": "2.2369363"
+        },
+        {
+            "Sistema": "EE.UU y Gran Bretaña",
+            "Medida": "pie por hora",
+            "Conversion": "11811.024"
+        },
+        {
+            "Sistema": "EE.UU y Gran Bretaña",
+            "Medida": "pulgada por hora",
+            "Conversion": "141732.28"
+        },
+        {
+            "Sistema": "EE.UU y Gran Bretaña",
+            "Medida": "milla por año",
+            "Conversion": "19608.565"
+        },
+        {
+            "Sistema": "EE.UU y Gran Bretaña",
+            "Medida": "pie por año",
+            "Conversion": "103533220"
+        },
+        {
+            "Sistema": "EE.UU y Gran Bretaña",
+            "Medida": "pulgada por año",
+            "Conversion": "1242398700"
+        },
+        {
+            "Sistema": "Ritmo (varios deportes)",
+            "Medida": "minutos por kilómetro",
+            "Conversion": "16.6666667"
+        },
+        {
+            "Sistema": "Ritmo (varios deportes)",
+            "Medida": "segundos por kilómetro",
+            "Conversion": "1000"
+        },
+        {
+            "Sistema": "Ritmo (varios deportes)",
+            "Medida": "tiempo por kilómetro (HH:MM:SS)",
+            "Conversion": "0:16:40"
+        },
+        {
+            "Sistema": "Ritmo (varios deportes)",
+            "Medida": "segundos por hectómetro",
+            "Conversion": "100"
+        },
+        {
+            "Sistema": "Ritmo (varios deportes)",
+            "Medida": "minutos por milla",
+            "Conversion": "26.8223997"
+        },
+        {
+            "Sistema": "Ritmo (varios deportes)",
+            "Medida": "segundos por milla",
+            "Conversion": "1609.34401"
+        },
+        {
+            "Sistema": "Ritmo (varios deportes)",
+            "Medida": "tiempo por milla (HH:MM:SS)",
+            "Conversion": "00:26:49.344"
+        },
+        {
+            "Sistema": "Ritmo (varios deportes)",
+            "Medida": "segundo por cien yardas",
+            "Conversion": "91.4399999"
+        },
+        {
+            "Sistema": "Ritmo (varios deportes)",
+            "Medida": "segundo por 500 metros",
+            "Conversion": "500"
+        },
+        {
+            "Sistema": "Ritmo (varios deportes)",
+            "Medida": "tiempo por 500 metros (HH:MM:SS)",
+            "Conversion": "00:08:20"
+        },
+        {
+            "Sistema": "Unidades náuticas",
+            "Medida": "nudo",
+            "Conversion": "1.9438445"
+        },
+        {
+            "Sistema": "Unidades náuticas",
+            "Medida": "milla náutica por hora",
+            "Conversion": "1.9438445"
+        },
+        {
+            "Sistema": "Otras",
+            "Medida": "velocidad del sonido en el aire !",
+            "Conversion": "0.002941176"
+        },
+        {
+            "Sistema": "Otras",
+            "Medida": "velocidad del sonido en el vacío",
+            "Conversion": "3.33564E-09"
+        }
+    ],
+    "Temperatura": [
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "grado Celsius (°C)",
+            "Conversion": "1"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "grado Fahrenheit (°F)",
+            "Conversion": "1.8",
+            "Constante" : "32"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "Kelvin (K)",
+            "Conversion": "1",
+            "Constante": "273.15"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "grado Réaumur (°Re)",
+            "Conversion": "0.8"
+        },
+        {
+            "Sistema": "Sistema Internacional",
+            "Medida": "Temperatura de Planck (Θ)",
+            "Conversion": "7.05799e-33",
+            "Constante": "1.92789013e-30"
+        },
+        {
+            "Sistema": "Escalas de temperatura históricas",
+            "Medida": "grado Rankine (°R)",
+            "Conversion": "1.8",
+            "Constante" : "491.67"
+        },
+        {
+            "Sistema": "Escalas de temperatura históricas",
+            "Medida": "grado Newton (°N)",
+            "Conversion": "0.33"
+        },
+        {
+            "Sistema": "Escalas de temperatura históricas",
+            "Medida": "grado Rømer (°Rø)",
+            "Conversion": "0.525",
+            "Constante" : "7.5"
+        },
+        {
+            "Sistema": "Escalas de temperatura históricas",
+            "Medida": "grado Delisle (°D)",
+            "Conversion": "-1.5",
+            "Constante" : "150"
+        }
+    ],
+    "Fuerza": [
+        {
+            "Sistema": "Sistema SI",
+            "Medida": "meganewton (MN)",
+            "Conversion": "0.000001"
+        },
+        {
+            "Sistema": "Sistema SI",
+            "Medida": "kilonewton (kN)",
+            "Conversion": "0.001"
+        },
+        {
+            "Sistema": "Sistema SI",
+            "Medida": "decanewton (dN)",
+            "Conversion": "0.1"
+        },
+        {
+            "Sistema": "Sistema SI",
+            "Medida": "newton (N)",
+            "Conversion": "1"
+        },
+        {
+            "Sistema": "Sistema SI",
+            "Medida": "milinewton (mN)",
+            "Conversion": "1000"
+        },
+        {
+            "Sistema": "Sistema SI",
+            "Medida": "micronewton (µN)",
+            "Conversion": "1000000"
+        },
+        {
+            "Sistema": "Sistema técnico de unidades",
+            "Medida": "tonelada-fuerza",
+            "Conversion": "0.000101972"
+        },
+        {
+            "Sistema": "Sistema técnico de unidades",
+            "Medida": "kilopondio (kp)",
+            "Conversion": "0.10197162"
+        },
+        {
+            "Sistema": "Sistema técnico de unidades",
+            "Medida": "kilogramo-fuerza (kgf)",
+            "Conversion": "0.10197162"
+        },
+        {
+            "Sistema": "Sistema técnico de unidades",
+            "Medida": "grave-force (Gf)",
+            "Conversion": "1.0197162E-01"
+        },
+        {
+            "Sistema": "Sistema técnico de unidades",
+            "Medida": "gramo-fuerza",
+            "Conversion": "101.97162"
+        },
+        {
+            "Sistema": "Sistema técnico de unidades",
+            "Medida": "miligrave-force (mGf)",
+            "Conversion": "101.97162"
+        },
+        {
+            "Sistema": "Sistema técnico de unidades",
+            "Medida": "fuerza gravet (gf)",
+            "Conversion": "101.97162"
+        },
+        {
+            "Sistema": "Sistema técnico de unidades",
+            "Medida": "miligramo-fuerza",
+            "Conversion": "101971.62"
+        },
+        {
+            "Sistema": "Unidades ingenieriles (inglesas) y gravitacionales (británicas)",
+            "Medida": "kip-fuerza (kipf)",
+            "Conversion": "0.000224809"
+        },
+        {
+            "Sistema": "Unidades ingenieriles (inglesas) y gravitacionales (británicas)",
+            "Medida": "tonelada-fuerza (tnf)",
+            "Conversion": "0.000112404"
+        },
+        {
+            "Sistema": "Unidades ingenieriles (inglesas) y gravitacionales (británicas)",
+            "Medida": "libra-fuerza (lbf)",
+            "Conversion": "0.22480894"
+        },
+        {
+            "Sistema": "Unidades ingenieriles (inglesas) y gravitacionales (británicas)",
+            "Medida": "onza-fuerza (ozf)",
+            "Conversion": "3.5969431"
+        },
+        {
+            "Sistema": "Sistema pie-libra-segundo",
+            "Medida": "poundal (pdl)",
+            "Conversion": "7.2330139"
+        },
+        {
+            "Sistema": "Sistema de unidades MTS (metro-tonelada-segundo)",
+            "Medida": "sthène (sn)",
+            "Conversion": "0.001"
+        },
+        {
+            "Sistema": "Sistema métrico CGS (centímetro-gramo-segundo)",
+            "Medida": "dina (dyn)",
+            "Conversion": "100000"
+        },
+        {
+            "Sistema": "Unidades atómicas",
+            "Medida": "unidad atómica de fuerza",
+            "Conversion": "12137805"
+        },
+        {
+            "Sistema": "Unidades naturales (de Planck)",
+            "Medida": "fuerza de Planck (LMT⁻²)",
+            "Conversion": "8.2626191E-45"
+        }
+    ],
+    "Presion": [
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "bar",
+            "Conversion": "1"
+        },
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "kilopascal (kPa)",
+            "Conversion": "100"
+        },
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "hectopascal (hPa)",
+            "Conversion": "1000"
+        },
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "megapascal (MPa)",
+            "Conversion": "0.1"
+        },
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "milibar",
+            "Conversion": "1000"
+        },
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "pascal (Pa)",
+            "Conversion": "100000"
+        },
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "gramo por centímetro cuadrado (gf/cm²)",
+            "Conversion": "1019.7162"
+        },
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "kilogramo por centímetro cuadrado (kgf/cm²)",
+            "Conversion": "1.0197162"
+        },
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "tonelada por centímetro cuadrado",
+            "Conversion": "0.001019716"
+        },
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "kilogramo por metro cuadrado (kgf/m²)",
+            "Conversion": "10197.162"
+        },
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "tonelada por metro cuadrado",
+            "Conversion": "10.197162"
+        },
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "newton por metro cuadrado (N/m²)",
+            "Conversion": "100000"
+        },
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "kilonewton por metro cuadrado (kN/m²)",
+            "Conversion": "100"
+        },
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "meganewton por metro cuadrado (MN/m²)",
+            "Conversion": "0.1"
+        },
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "newton por centímetro cuadrado (N/cm²)",
+            "Conversion": "10"
+        },
+        {
+            "Sistema": "Unidades métricas",
+            "Medida": "newton por milimetro cuadrado (N/mm²)",
+            "Conversion": "0.1"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "onza por pulgada cuadrada (osi, oz/in²)",
+            "Conversion": "232.06038"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "onza por pie cuadrado",
+            "Conversion": "33416.695"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "libras por pulgada cuadrada (psi)",
+            "Conversion": "14.503774"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "libras por pie cuadrado",
+            "Conversion": "2088.5434"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "1000 libras por pulgada cuadrada (ksi)",
+            "Conversion": "0.014503774"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "tonelada fuerza por pulgada cuadrada",
+            "Conversion": "0.007251887"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "tonelada fuerza por pie cuadrado",
+            "Conversion": "1.0442717"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "tonelada larga fuerza por pulgada cuadrado",
+            "Conversion": "0.006474899"
+        },
+        {
+            "Sistema": "Unidades inglesas y americanas",
+            "Medida": "tonelada larga fuerza por pie cuadrado",
+            "Conversion": "0.93238543"
+        },
+        {
+            "Sistema": "Mercurio",
+            "Medida": "pulgadas de mercurio",
+            "Conversion": "29.529983"
+        },
+        {
+            "Sistema": "Mercurio",
+            "Medida": "centímetros de mercurio",
+            "Conversion": "75.006158"
+        },
+        {
+            "Sistema": "Mercurio",
+            "Medida": "milímetro de mercurio (torr)",
+            "Conversion": "750.06158"
+        },
+        {
+            "Sistema": "Agua (4°C, 39.2°F)",
+            "Medida": "metro de agua",
+            "Conversion": "10.197162"
+        },
+        {
+            "Sistema": "Agua (4°C, 39.2°F)",
+            "Medida": "centímetro de agua",
+            "Conversion": "1019.7162"
+        },
+        {
+            "Sistema": "Agua (4°C, 39.2°F)",
+            "Medida": "milímetro de agua",
+            "Conversion": "10197.162"
+        },
+        {
+            "Sistema": "Agua (4°C, 39.2°F)",
+            "Medida": "pie de agua",
+            "Conversion": "33.455256"
+        },
+        {
+            "Sistema": "Agua (4°C, 39.2°F)",
+            "Medida": "pulgada de agua",
+            "Conversion": "401.46308"
+        },
+        {
+            "Sistema": "Atmósfera",
+            "Medida": "atmósfera física (atm)",
+            "Conversion": "0.98692327"
+        },
+        {
+            "Sistema": "Atmósfera",
+            "Medida": "atmósfera técnica",
+            "Conversion": "1.0197162"
+        },
+        {
+            "Sistema": "Unidades naturales (de Planck)",
+            "Medida": "presión de Planck (L⁻¹MT⁻²)",
+            "Conversion": "2.1583867E-109"
+        }
+    ]
+}

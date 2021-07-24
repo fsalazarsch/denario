@@ -1,0 +1,7 @@
+{
+  "name": "denario",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

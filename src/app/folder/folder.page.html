@@ -1,0 +1,79 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>{{ folder }}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">{{ folder }}</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+
+  <ion-list>
+    <ion-item>
+      <ion-label>Magnitud</ion-label>
+      <ion-select  [(ngModel)]="folder" placeholder="Selecciona ..." (ionChange)="cargar()" >
+        <div *ngFor="let item of magnitudes">
+          <ion-select-option value="{{item.title}}">
+            {{item.title}}
+          </ion-select-option>
+        </div>
+      </ion-select>
+    </ion-item>
+    <hr>
+
+    <ion-item *ngIf="isVisible">
+      <ion-label>Cantidad</ion-label>
+        <ion-input [(ngModel)]="cant" clearInput type="number" value="Cantidad" (focusout)="calcular()" ></ion-input>
+    </ion-item>
+      <hr>
+    <ion-item *ngIf="isVisible"> 
+      <ion-label>Origen</ion-label>
+      <ionic-selectable
+      [(ngModel)]="x"
+      [items]="medidas"
+      itemValueField="Conversion"
+      itemTextField="Medida"
+      [canSearch]="true"
+      [isMultiple]="false"
+      (onChange)="portChange($event)"
+      (click) ="cargando()">
+      </ionic-selectable>
+    </ion-item>
+    <ion-item *ngIf="isVisible">
+      <ion-label>Destino</ion-label>
+      <ionic-selectable
+      [(ngModel)]="y"
+      [items]="medidas"
+      itemValueField="Conversion"
+      itemTextField="Medida"
+      [canSearch]="true"
+      [isMultiple]="false"
+      (onChange)="portChange($event)"
+      (click) ="cargando()">
+      </ionic-selectable>
+    </ion-item>
+      <hr>
+    <ion-item *ngIf="isVisible">
+      <ion-label>Nro de decimales</ion-label>
+      <ion-input type="number" [(ngModel)]="precision"  min=1 max = 9 (change) ="redondear()"></ion-input>
+    </ion-item>
+    <ion-item *ngIf="cant && x && y" (click)="click_btn_copiar()">
+      <ion-label>Resultado</ion-label>
+      <ion-input type="number" value="{{ convertido_redondeado }}" disabled></ion-input>
+    <ion-button size="large" ><ion-icon  size="large" name="clipboard-outline"></ion-icon></ion-button>
+    </ion-item>  
+
+  </ion-list>
+
+
+  <div id="container" *ngIf ="folder == 'Index'">
+    Selecciona una de las magnitudes del menu 
+  </div>
+</ion-content>
